@@ -1,0 +1,5 @@
+- its a future prediction. example. weekly.. Wednesday 1:20 pm is the best time to travel between, Thane and bandra(say)
+- When asked on a specific day. Say Monday... 3:30 pm is the best time to travel on a Monday,between A and B, on path. x-y
+- So for that we can do one thing we can have google map API which will record the time from Point A 2 B and then with the data collect we can let our model decied when is the best time
+- for path google maps will be there ......... and for diffirent conditions we can add those label while training the model
+- Live and previous data, Basically. First... web scraping.. and saving the data
